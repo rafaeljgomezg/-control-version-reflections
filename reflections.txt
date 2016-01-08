@@ -51,4 +51,13 @@ How could having easy access to the entire history of a file make you a more eff
 
 	As I said earlier, having version hystory stands the opportunity of develop the app in the stimated time, because 		we always would know what we have been changing.
 
-    My firts edition
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+    Manually
+        pros: 
+            - We have the control of when to save modifications and fixes
+        Cons: 
+            - In case of an electrical failure we can lose all the work
+    Automatically
+        Pros: we are going to have updated our work
+        Cons: too much versions
+
