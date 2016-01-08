@@ -1,0 +1,54 @@
+﻿How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Viewing diffrences help us find any error and save time and of course money when we are in a timeline project
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It's a good way to stablish the advances or delays of a project
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    If there is a typo, that's will be saved too and it will afect the version control counter in a bad way. A pro is that files will be saved and can be recovered faster
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Google docs is not made for developing projects. The concept in Git is opossite
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Git Log
+    	We have to clone a repository first, then execute "git log". We will see the changes history of that repository
+    Git Diff
+    	Git diff Show changes between the working tree and the index or a tree, changes between the index and a tree, changes between two trees, changes between two blob objects, or changes between two files on disk.
+    	It has to be used as follows
+    		git diff [options] [<commit>] [--] [<path>…​]
+			git diff [options] --cached [<commit>] [--] [<path>…​]
+			git diff [options] <commit> <commit> [--] [<path>…​]
+			git diff [options] <blob> <blob>
+			git diff [options] [--no-index] [--] <path> <path>
+
+
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    We'll always know what we are doing and what we did in case of any major problem 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to learn how colaboration works. I have never used any CV system before
+
+Reflect: Using History for Efficiency
+
+Now that you've learned about some version control systems, and how they can help you save the history of a file, go add the following question and your thoughts on it to your reflections file:
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+	As I said earlier, having version hystory stands the opportunity of develop the app in the stimated time, because 		we always would know what we have been changing.
+
+Making changes
