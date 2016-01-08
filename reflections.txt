@@ -61,3 +61,6 @@ What do you think are the pros and cons of manually choosing when to create a co
         Pros: we are going to have updated our work
         Cons: too much versions
 
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+    Becasuse developers need to have control of every change they make on alll files of a project
+
