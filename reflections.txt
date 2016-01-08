@@ -51,4 +51,4 @@ How could having easy access to the entire history of a file make you a more eff
 
 	As I said earlier, having version hystory stands the opportunity of develop the app in the stimated time, because 		we always would know what we have been changing.
 
-Making changes
+    My firts edition
